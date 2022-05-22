@@ -1,5 +1,3 @@
-#pragma once
-
 struct Stats
 {
   float average,max,min;
