@@ -1,6 +1,5 @@
 /* This header file includes the functions required to run TEST3 */
-
-unsigned int emailAlertCallCount = 0, ledAlertCallCount = 0;
+#include "stats.h"
 
 typedef void (*alerter_funcptr)(void);
 
